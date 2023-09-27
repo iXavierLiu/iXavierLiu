@@ -31,8 +31,8 @@ const xavier = {
     locations: [
         {
             "China": [
-                { "Beijing": "Beijing" },
-                { "Hebei": "Shijiazhuang" }
+                { "Beijing": ["Beijing"] },
+                { "Hebei": ["Shijiazhuang"] }
             ]
         }
     ]
