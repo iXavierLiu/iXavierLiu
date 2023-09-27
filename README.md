@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 ## Hi, I'm Xavier
 
 ### More details about me
+You may see items starting with `^`, which means that I have forgotten a lot, or that I am not proficient in it.
 ```javascript
 const xavier = {
     pronouns: ["he", "him"],
@@ -37,3 +38,6 @@ const xavier = {
     ]
 };
 ```
+- 🔭 I am currently engaged in C/C++ related work.
+- 🌱 I’m currently learning Asp.Net Core.
+- 📫 You can get to know me through the website [xavierliu.io](https://xavierliu.io)(will be launch soon) or contact me via email [i@xavierliu.io](mailto:i@xavierliu.io).
