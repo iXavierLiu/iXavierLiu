@@ -22,7 +22,7 @@ const xavier = {
     languages: ["zh-CN", "^en-US"],
     programming_languages: ["C", "C++", "JavaScript", "Shell", "^C#", "^SQL"],
     other_computer_languages: ["HTML", "CSS/^SASS", "CMakelist", "^Dockerfile"],
-    tool: ["Visual Studio 2019/2022", "VS Code", "CMake", "Git", "MariaDB", "Docker"],
+    tool: ["Visual Studio 2019/2022", "VS Code", "Vcpkg", "CMake", "Git", "MariaDB", "Docker"],
     interests: ["full stack web development", "cyber security", "cryptology/RSA", "computer/network hardware"],
     system: [
         { Windows: ["10"] },
